@@ -1,4 +1,12 @@
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+created branches.
+=======
+for veet moradiya
+>>>>>>> Bhautik
 
 for vraj
 
+>>>>>>> Veet
 by bhautik sudani
