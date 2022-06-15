@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 <<<<<<< HEAD
 created branches.
@@ -9,4 +10,10 @@ for veet moradiya
 for vraj
 
 >>>>>>> Veet
+=======
+
+for vraj
+
+created branches.
+>>>>>>> 33069903a0f94677a650ef6242c7fec751674857
 by bhautik sudani
