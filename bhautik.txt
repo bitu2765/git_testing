@@ -1,2 +1,9 @@
+<<<<<<< HEAD
 created branches.
+=======
+for veet moradiya
+
+Veet Moradiya is Here and this content is added by him.
+
+>>>>>>> Veet
 by bhautik sudani
